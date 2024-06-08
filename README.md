@@ -1,17 +1,51 @@
-"# 朱福銘：Aha's Profile" 
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>台灣防衛Ｘ世界和平</title>
-  
+<title>朱福銘：Aha's Profile</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+  }
+  h1 {
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  h2 {
+    margin-top: 30px;
+  }
+  ol, ul {
+    margin-left: 20px;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+</style>
 </head>
 <body>
+
+<h1>朱福銘：Aha's Profile</h1>
+
+<img src="path/to/your/photo.jpg" alt="朱福銘的照片">
+
 <p>姓名：朱福銘</p>
 <p>職稱：執行長、防災士</p>
 <p>職務：《報呱》特約主筆、台北資訊園區企劃長</p>
 <p>簡介：台灣是我們的家：我們的起點我們的終點。勇氣、智慧、行動方讓我們成為好國好人。保衛台灣。</p>
+
 <h2>文章：</h2>
 <ol>
   <li><a href="https://www.pourquoi.tw/environmental-impact-of-books-to-buy-or-not-to-buy/">書店：當蜜蜂消失的那天</a></li>
