@@ -39,8 +39,6 @@
 
 <h1>朱福銘：Aha's Profile</h1>
 
-<img src="https://news.owlting.com/articles/697903#&gid=1&pid=2" alt="朱福銘的照片">
-
 <p>姓名：朱福銘</p>
 <p>職稱：執行長、防災士</p>
 <p>職務：《報呱》特約主筆、台北資訊園區企劃長</p>
