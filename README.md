@@ -7,7 +7,10 @@
 <title>台灣防衛Ｘ世界和平</title>
 </head>
 <body>
-
+<p>姓名：朱福銘</p>
+<p>職稱：執行長、防災士</p>
+<p>職務：《報呱》特約主筆、台北資訊園區企劃長</p>
+<p>簡介：台灣是我們的家：我們的起點我們的終點。勇氣、智慧、行動方讓我們成為好國好人。保衛台灣。</p>
 <h2>文章：</h2>
 <ol>
   <li><a href="https://www.pourquoi.tw/environmental-impact-of-books-to-buy-or-not-to-buy/">書店：當蜜蜂消失的那天</a></li>
